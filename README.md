@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="border-radius: 200%;">
+
 Hi there! 👋<br>I'm Roua Mnissi, a software engineering student currently in my fourth year of studies. Passionate about programming and technology, I constantly strive to expand my knowledge and skills in the ever-evolving world of software development.<br>Throughout my academic journey, I have gained a strong foundation in various programming languages and concepts. However, I believe that learning is a lifelong process, and I am always excited to explore new programming languages, frameworks, and technologies. This continuous learning enables me to stay up-to-date with industry trends and adapt to emerging technologies.<br>If you have any questions, suggestions, or are interested in collaborating, please don't hesitate to reach out. Let's connect and build amazing things together!<br><br>Happy coding! 🚀
 
 - 📫 How to reach me **mnroua6@gmail.com**
