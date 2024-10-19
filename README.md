@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=rouamn&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me: 
 
 Hi there! 👋<br>I'm Roua Mnissi, a software engineering student currently in my fourth year of studies. Passionate about programming and technology, I constantly strive to expand my knowledge and skills in the ever-evolving world of software development.<br>Throughout my academic journey, I have gained a strong foundation in various programming languages and concepts. However, I believe that learning is a lifelong process, and I am always excited to explore new programming languages, frameworks, and technologies. This continuous learning enables me to stay up-to-date with industry trends and adapt to emerging technologies.<br>If you have any questions, suggestions, or are interested in collaborating, please don't hesitate to reach out. Let's connect and build amazing things together!<br><br>Happy coding! 🚀
@@ -14,6 +16,6 @@ Hi there! 👋<br>I'm Roua Mnissi, a software engineering student currently in m
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rouamn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rouamn&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
