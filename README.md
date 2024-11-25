@@ -7,7 +7,7 @@ I love exploring new technologies, languages, and frameworks to stay at the fore
 🔭 **Currently working on**: Laravel project  
 🌱 **Currently learning**: Cloud services and AWS  
 💬 **Ask me about**: Spring Boot, Laravel, and React  
-📫 **How to reach me**: [mnroua6@gmail.com](mailto:mnroua6@gmail.com)  
+📫 **How to reach me**: [roua.mnissi@esprit.tn](mailto:roua.mnissi@esprit.tn)  
 ⚡ **Fun fact**: I love exploring new technologies and tackling challenging problems!
 
 ---
